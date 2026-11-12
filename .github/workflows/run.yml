@@ -11,8 +11,8 @@ on:
     - cron: '5,25,45 * * * *'
 
 env:
-  MY_NAME: vps-a
-  PEER_NAME: vps-b
+  MY_NAME: vps-x
+  PEER_NAME: vps-y
   PEER_REPO: abdallahsde345/Y
   PEER_BRANCH: main
   WORKFLOW_FILE: run.yml
